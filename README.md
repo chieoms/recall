@@ -117,7 +117,7 @@ VITE_FIREBASE_APP_ID=
 ## Recall - Deployed on AWS Cloud
 
 ## AWS Infrastructure Plan
-![Infrastructure diagram](./images/recall.png)
+![AWS Infrastructure Plan](./deployend/documentation/images/recall.png)
 
 ## Tools and Services Used
 
@@ -138,13 +138,7 @@ VITE_FIREBASE_APP_ID=
 ```bash
 python main.py
 ```
-
 The script will handle the rest of the deployment!
-
----
-*Thanks!*  
-   
-![AWS Infrastructure Plan](./deployend/documentation/images/recall.png)
 
 ---
 
